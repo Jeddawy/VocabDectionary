@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23E224" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DefinitionDataModel" representedClassName="DefinitionDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="definition" optional="YES" attributeType="String"/>
+        <attribute name="example" optional="YES" attributeType="String"/>
+        <relationship name="meaningRelation" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MeaningDataModel"/>
+    </entity>
+    <entity name="LicenseDataModel" representedClassName="LicenseDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="url" optional="YES" attributeType="String"/>
+        <relationship name="translationrelation" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="TranslatedDataModel"/>
+    </entity>
+    <entity name="MeaningDataModel" representedClassName="MeaningDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="partOfSpeech" optional="YES" attributeType="String"/>
+        <relationship name="definitionRelation" toMany="YES" deletionRule="Nullify" destinationEntity="DefinitionDataModel"/>
+        <relationship name="synonomsRelation" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SynonomElement"/>
+        <relationship name="translationrelation" maxCount="1" deletionRule="Nullify" destinationEntity="TranslatedDataModel"/>
+    </entity>
+    <entity name="PhoneticDataModel" representedClassName="PhoneticDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="audio" optional="YES" attributeType="String"/>
+        <attribute name="sourceURL" optional="YES" attributeType="String"/>
+        <attribute name="text" optional="YES" attributeType="String"/>
+        <relationship name="translationrelation" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="TranslatedDataModel"/>
+    </entity>
+    <entity name="SynonomElement" representedClassName="SynonomElement" syncable="YES" codeGenerationType="class">
+        <attribute name="synonoms" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TranslatedDataModel" representedClassName="TranslatedDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="phonetic" optional="YES" attributeType="String"/>
+        <attribute name="word" optional="YES" attributeType="String"/>
+        <relationship name="licenseRelation" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="LicenseDataModel"/>
+        <relationship name="meaningsRelation" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="MeaningDataModel"/>
+        <relationship name="phoneticsRelation" toMany="YES" deletionRule="Nullify" destinationEntity="PhoneticDataModel"/>
+    </entity>
+</model>

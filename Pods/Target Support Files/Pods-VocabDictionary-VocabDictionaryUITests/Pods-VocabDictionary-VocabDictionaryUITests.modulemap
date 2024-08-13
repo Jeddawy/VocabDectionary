@@ -1,0 +1,6 @@
+framework module Pods_VocabDictionary_VocabDictionaryUITests {
+  umbrella header "Pods-VocabDictionary-VocabDictionaryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D33815B-CCFE-4CE4-838A-1D4CF8783C84"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "translate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - a33923a9154e0b59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - a33923a9154e0b59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - bc44064905e0252e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - bc44064905e0252e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - 6b538db7d318fc35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - 6b538db7d318fc35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "255">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - 6b538db7d318fc14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "CA6ED308-48EC-4CB8-882A-98288BE7C9E6 - 6b538db7d318fc14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "259">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3912A67A-AADC-46DF-9B63-9CBCFEC40044"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "translate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3912A67A-AADC-46DF-9B63-9CBCFEC40044 - a33923a9154e0b3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "322">
+               </Location>
+               <Location
+                  uuid = "3912A67A-AADC-46DF-9B63-9CBCFEC40044 - bc44064905e0254d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "322">
+               </Location>
+               <Location
+                  uuid = "3912A67A-AADC-46DF-9B63-9CBCFEC40044 - 6b538db7d318fc14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "273">
+               </Location>
+               <Location
+                  uuid = "3912A67A-AADC-46DF-9B63-9CBCFEC40044 - 6b538db7d318fdca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "303">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "translate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - bc44064905e025e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - a33923a9154e0b9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - bc44064905e0250f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - 779cb72db25d43e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - 6b538db7d318fc77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - 779cb72db25d43c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "763928F9-7F4A-4743-990A-C0B9E8D92C4A - 6b538db7d318fc56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in VocabDictionary.TranslationViewModel.translate() -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A18332DE-D86A-4FC5-8FE1-274C3EA375AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Core/WordTranslation/ViewModel/TranslateWordViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "translate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4734A34A-3987-4087-9B31-1EE1F698957F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/DataLayer/TranslationRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "TranslationRepository"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A19C486A-B63E-44A7-89C0-BCA66EB496CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/DataLayer/TranslationRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchTranslation(word:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A19C486A-B63E-44A7-89C0-BCA66EB496CA - 778eb6c9520a5fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "A19C486A-B63E-44A7-89C0-BCA66EB496CA - fc78b9187e823250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;VocabDictionary.Translation&gt;, VocabDictionary.HttpError&gt;) -&gt; () in VocabDictionary.TranslationRepository.fetchTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "A19C486A-B63E-44A7-89C0-BCA66EB496CA - 778eb6c9520a5fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11EC65A5-DF59-4B45-9BC7-73B2A4F7B30C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/DataLayer/TranslationRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchTranslation(word:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11EC65A5-DF59-4B45-9BC7-73B2A4F7B30C - 111ae96f8e660e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.translateToWord(from: VocabDictionary.Translation) -&gt; VocabDictionary.TranslatedWord"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "11EC65A5-DF59-4B45-9BC7-73B2A4F7B30C - 778eb6c9520a5d44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.Translation&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3D3F07B-D768-4D4A-89EA-6F5EEC1C7FE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/DataLayer/TranslationRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchLocalTranslation(word:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3D3F07B-D768-4D4A-89EA-6F5EEC1C7FE5 - 38f529184782e31a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchLocalTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  uuid = "A3D3F07B-D768-4D4A-89EA-6F5EEC1C7FE5 - 38f529184782e31a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchLocalTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E7CEBD8-C8E1-47D3-9985-8E97B79A9805"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/DataLayer/TranslationRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchLocalTranslation(word:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E7CEBD8-C8E1-47D3-9985-8E97B79A9805 - 38f529184782e3d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchLocalTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "5E7CEBD8-C8E1-47D3-9985-8E97B79A9805 - 38f529184782e3d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.TranslationRepository.fetchLocalTranslation(word: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;VocabDictionary.TranslatedWord&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/TranslationRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8481734A-2B33-42F0-B135-2B5E711066DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/DataLayer/RemoteDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchTranslation(word:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8481734A-2B33-42F0-B135-2B5E711066DD - 439c1c5703a77f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.RemoteDataSource.fetchTranslation(word: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VocabDictionary.Translation&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/RemoteDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  uuid = "8481734A-2B33-42F0-B135-2B5E711066DD - 439c1c5703a77f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VocabDictionary.RemoteDataSource.fetchTranslation(word: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VocabDictionary.Translation&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/DataLayer/RemoteDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C516CB8-2C96-45C4-A94A-A52F01E201F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/ServiceAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetch(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C516CB8-2C96-45C4-A94A-A52F01E201F7 - 39806ea7dfcdf93d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "8C516CB8-2C96-45C4-A94A-A52F01E201F7 - e105fb07f0bbd9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "8C516CB8-2C96-45C4-A94A-A52F01E201F7 - e105fb07f0bbd9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "337">
+               </Location>
+               <Location
+                  uuid = "8C516CB8-2C96-45C4-A94A-A52F01E201F7 - e105fb07f0bbd9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F57F3218-C9A4-4F8B-AAA2-E11A3E8D7DE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/ServiceAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetch(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F57F3218-C9A4-4F8B-AAA2-E11A3E8D7DE9 - 39806ea7dfcdf8b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "803">
+               </Location>
+               <Location
+                  uuid = "F57F3218-C9A4-4F8B-AAA2-E11A3E8D7DE9 - e105fb07f0bbd854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "785">
+               </Location>
+               <Location
+                  uuid = "F57F3218-C9A4-4F8B-AAA2-E11A3E8D7DE9 - e105fb07f0bbd854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "702">
+               </Location>
+               <Location
+                  uuid = "F57F3218-C9A4-4F8B-AAA2-E11A3E8D7DE9 - e105fb07f0bbd854"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "733">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6ABB4D9E-71D1-4230-A1CC-8484F5E7D0C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/ServiceAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetch(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6ABB4D9E-71D1-4230-A1CC-8484F5E7D0C2 - 39806ea7dfcdf7c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "3258">
+               </Location>
+               <Location
+                  uuid = "6ABB4D9E-71D1-4230-A1CC-8484F5E7D0C2 - e105fb07f0bbd8e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "3268">
+               </Location>
+               <Location
+                  uuid = "6ABB4D9E-71D1-4230-A1CC-8484F5E7D0C2 - e105fb07f0bbd8e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "3177">
+               </Location>
+               <Location
+                  uuid = "6ABB4D9E-71D1-4230-A1CC-8484F5E7D0C2 - e105fb07f0bbd8e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "3621">
+               </Location>
+               <Location
+                  uuid = "6ABB4D9E-71D1-4230-A1CC-8484F5E7D0C2 - e105fb07f0bbd8e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1721">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/ServiceAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetch(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - 39806ea7dfcdf763"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "2584">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1127">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2616">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1051">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2531">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2562">
+               </Location>
+               <Location
+                  uuid = "2D964BDF-9588-431D-B216-7DD5B6D6B8FF - e105fb07f0bbd78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1566">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47F5F0AF-420A-4D2A-928E-EBA8E181A74B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/ServiceAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetch(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47F5F0AF-420A-4D2A-928E-EBA8E181A74B - e105fb07f0bbd6f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2429">
+               </Location>
+               <Location
+                  uuid = "47F5F0AF-420A-4D2A-928E-EBA8E181A74B - e105fb07f0bbd6f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2361">
+               </Location>
+               <Location
+                  uuid = "47F5F0AF-420A-4D2A-928E-EBA8E181A74B - e105fb07f0bbd623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1358">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "300697B5-852E-4FAF-A5C5-10D699C6ED95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/ServiceAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetch(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "300697B5-852E-4FAF-A5C5-10D699C6ED95 - e105fb07f0bbd602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3115">
+               </Location>
+               <Location
+                  uuid = "300697B5-852E-4FAF-A5C5-10D699C6ED95 - e105fb07f0bbd602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "3463">
+               </Location>
+               <Location
+                  uuid = "300697B5-852E-4FAF-A5C5-10D699C6ED95 - e105fb07f0bbd7c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VocabDictionary.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, VocabDictionary.HttpError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VocabDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Geddawy/Desktop/Examples/VocabDictionary/VocabDictionary/Services/ServiceAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A804FD94-3478-4AD1-B47F-08C8CA05BE67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/CoreDataRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B28E38E5-063B-492B-BDEA-D635CF444DBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/CoreDataRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0286EA79-93FE-4A26-9D6C-5C814D9C8D54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VocabDictionary/Services/CoreDataRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
