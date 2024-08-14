@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import CoreData
 
 protocol LocalDataSourceProtocol {
     func save(_ entities: [TranslatedWord])

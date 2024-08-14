@@ -12,21 +12,14 @@ class TranslationRepositoryTests: XCTestCase {
     func testFetchTranslationSuccess() {
         // Given
         let mockWord = "apple"
-        let mockData = Data() // Replace with valid JSON data
-        let expectedResponse : TranslationResponse = [Translation(word: "Apple"), Translation(word: "amazon")]// Example response
+        let expectedResponse : TranslationResponse = [Translation(word: "Apple")]// Example response
 
         // Mock HttpClient
-        let mockHttpClient = MockHttpClient()
-        mockHttpClient.fetch(url: URL()) { result in
-            <#code#>
-        }
-
-        // Create RemoteDataSource
-        let remoteDataSource = RemoteDataSource(httpClient: mockHttpClient)
-
+        let mockRemoteDataSource = MockRemoteDataSource(httpClient:  HttpClient(urlsession: URLSession.shared))
+ 
         // When
         let expectation = XCTestExpectation(description: "fetchTranslation completion")
-        remoteDataSource.fetchTranslation(word: mockWord) { result in
+        mockRemoteDataSource.fetchTranslation(word: mockWord) { result in
             switch result {
             case .success(let response):
                 XCTAssertEqual(response, expectedResponse) // Assuming proper decoding logic
@@ -37,6 +30,7 @@ class TranslationRepositoryTests: XCTestCase {
         }
         wait(for: [expectation], timeout: 1)
     }
+
     func testFetchLocalTranslationSuccess() {
       // Mock data
     let mockWord = "apple"
@@ -83,7 +77,7 @@ extension TranslationRepositoryTests{
         let result = TranslationRepository().translateToWord(from: translation)
         
         // Then as we have the id with is uuid string
-        XCTAssertNotEqual(result, expectedWord)
+        XCTAssertEqual(result, expectedWord)
     }
     
     func testTranslateToWordArray() {
@@ -101,6 +95,6 @@ extension TranslationRepositoryTests{
         let result = TranslationRepository().translateToWordArray(from: translations)
 
         // Then
-        XCTAssertNotEqual(result, expectedWords)
+        XCTAssertEqual(result, expectedWords)
     }
 }

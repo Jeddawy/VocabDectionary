@@ -16,7 +16,7 @@ struct Translation: Codable, Equatable{
     }
     
     var word:String?
-   var phonetic: String?
+    var phonetic: String?
     var phonetics: [Phonetic]?
     var meanings: [Meaning]?
     var license: License?
@@ -48,7 +48,7 @@ struct Phonetic: Codable {
     let audio: String?
     let sourceURL: String?
     let license: License?
-
+    
     enum CodingKeys: String, CodingKey {
         case text, audio
         case sourceURL = "sourceUrl"

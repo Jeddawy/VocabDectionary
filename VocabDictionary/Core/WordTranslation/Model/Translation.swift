@@ -6,8 +6,6 @@
 //
 
 import Foundation
-import CoreData
-
 
 struct TranslatedWord: Identifiable, Hashable,Entity {
     
