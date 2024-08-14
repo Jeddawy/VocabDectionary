@@ -1,20 +1,14 @@
 # VocabDectionary
-a simple app with SWIFTUI in MVVM
-## Project Overview
-### Video Demonstration
-![Simulator Screenshot - Clone 1 of iPhone 15 Pro - 2024-08-13 at 22 33 04](https://github.com/user-attachments/assets/418b3666-e2b7-4547-9836-d192545eef7a)
-![Simulator Screenshot - Clone 1 of iPhone 15 Pro - 2024-08-13 at 22 33 07](https://github.com/user-attachments/assets/8f0b1793-fdd8-4818-815e-a679d11b1156)
 
+VocabDectionary is an iOS application built with SwiftUI  that provides a sleek, modern interface for exploring word definitions. 
 
+## Features
 
-https://github.com/user-attachments/assets/819cb3b2-7e37-4745-82f7-86c58379d82b
+- **Translate any word and cach it.
 
+## Architecture
 
-
-## VocabDectionary ## 
-is a Swift-based MVVM project designed to efficiently manage data retrieval and persistence for translations. The project employs a robust data layer that prioritizes local data access, leveraging Realm for storage. If the required data is not found locally, it is fetched from a remote data source via an HTTP client.
-
-### Project Structure
+The app follows and implements the MVVM (Model-View-ViewModel) architecture pattern:
 
 # TranslationRepository:
   The core layer responsible for orchestrating data retrieval and storage.
@@ -30,18 +24,32 @@ is a Swift-based MVVM project designed to efficiently manage data retrieval and 
  Can be implemented using various libraries (e.g., URLSession, Alamofire).
 
 
-### Key Features
+## Implementation
 
-Efficient data access: Prioritizes local data for faster retrieval.
-Flexible data source management: Easily swappable RemoteDataSource and HttpClient for adaptability.
-Robust error handling: Implements appropriate error handling mechanisms for both local and remote data operations.
-Clear separation of concerns: Adheres to the MVVM pattern for better maintainability.
+- **SwiftUI**: For building a responsive and declarative UI.
+- **Third-Party Frameworks**: Realm for caching.
 
-## Usage
+## Error Handling
 
-To use this project, clone it and provide the necessary dependencies (Realm, HttpClient implementation).
+The app includes comprehensive error-handling mechanisms to manage network errors, API failures, and unexpected exceptions, ensuring a smooth user experience.
 
-## Dependencies
+## Testing
 
-Realm
+Unit tests are provided to cover critical components and functionalities, including domain logic, data retrieval.
+
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Open Terminal
+3- Change directory to folder path
+4- Install cocoapods
+5- Build and run the app on a simulator or physical device.
+
+
+### Video Demonstration
+![Simulator Screenshot - Clone 1 of iPhone 15 Pro - 2024-08-13 at 22 33 04](https://github.com/user-attachments/assets/418b3666-e2b7-4547-9836-d192545eef7a)
+![Simulator Screenshot - Clone 1 of iPhone 15 Pro - 2024-08-13 at 22 33 07](https://github.com/user-attachments/assets/8f0b1793-fdd8-4818-815e-a679d11b1156)
+
+
+https://github.com/user-attachments/assets/819cb3b2-7e37-4745-82f7-86c58379d82b
 
